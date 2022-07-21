@@ -32,6 +32,9 @@ To successfully utilize this project first of all you need to clone or download 
 👤 Anas
 - GitHub: [@a-laarabi](https://github.com/a-laarabi)
 
+👤 Pierre
+- GitHub: [@Piercel2022](https://github.com/Piercel2022)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
